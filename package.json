@@ -1,0 +1,27 @@
+{
+  "name": "vrtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurqabr/testCypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurqabr/testCypress/issues"
+  },
+  "homepage": "https://github.com/arthurqabr/testCypress#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "eslint": "^8.38.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-cypress": "^2.13.2",
+    "prettier": "^2.8.7"
+  }
+}
